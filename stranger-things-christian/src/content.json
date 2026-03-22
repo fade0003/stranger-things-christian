@@ -1,0 +1,46 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "title": "Bible Gateway",
+      "url": "https://www.biblegateway.com",
+      "description": "Online Bible study tools with multiple translations"
+    },
+    {
+      "id": 2,
+      "title": "Got Questions",
+      "url": "https://www.gotquestions.org",
+      "description": "Christian Q&A resource for faith questions"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Finding Faith",
+      "url": "https://www.youtube.com/watch?v=example1",
+      "description": "A personal journey to finding Christian faith"
+    },
+    {
+      "id": 2,
+      "title": "Understanding Prayer",
+      "url": "https://www.youtube.com/watch?v=example2",
+      "description": "How to start talking with God"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "A Journey to Faith",
+      "excerpt": "My personal story of finding God in unexpected places and how it transformed my life...",
+      "date": "2024-03-22",
+      "url": "#blog-1"
+    },
+    {
+      "id": 2,
+      "title": "Prayer for Beginners",
+      "excerpt": "Starting your prayer life can feel overwhelming. Here are simple steps to begin talking with God...",
+      "date": "2024-03-20",
+      "url": "#blog-2"
+    }
+  ]
+}
