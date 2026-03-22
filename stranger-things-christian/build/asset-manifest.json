@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stranger-things-christian/static/css/main.5033a181.css",
+    "main.js": "/stranger-things-christian/static/js/main.683b4f74.js",
+    "index.html": "/stranger-things-christian/index.html",
+    "main.5033a181.css.map": "/stranger-things-christian/static/css/main.5033a181.css.map",
+    "main.683b4f74.js.map": "/stranger-things-christian/static/js/main.683b4f74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5033a181.css",
+    "static/js/main.683b4f74.js"
+  ]
+}

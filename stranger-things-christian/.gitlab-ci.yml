@@ -1,0 +1,12 @@
+pages:
+  stage: deploy
+  script:
+    - npm ci
+    - npm run build
+    - mv public public_old || true
+    - mv build public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
